@@ -1,0 +1,16 @@
+# AI skills & agent tooling (installed per-project, never publish)
+.claude/
+.agents/
+.cursor/
+.windsurf/
+.gemini/
+.codex/
+skills-lock.json
+node_modules/
+
+# Local / OS
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+.env
